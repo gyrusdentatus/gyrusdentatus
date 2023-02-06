@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning ... everything, but I guess the biggest challenge is to keep track of your previous work so you could get back to it.
 - 💞️ I’m looking to collaborate on ... currently mainly on nymtech.net and mixnets and also anything related to privacy, infosec, identity, networking, opsec, microcontrollers, ARM, RISC-V ...
 - 📫 How to reach me: hans@dialout.net
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/hansbricks/30min?hide_gdpr_banner=1'});return false;">Wanna talk? Get in touch!</a>
+<!-- Calendly link widget end -->
 
 <!---
 gyrusdentatus/gyrusdentatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
